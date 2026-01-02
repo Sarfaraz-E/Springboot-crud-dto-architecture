@@ -213,7 +213,7 @@ Access Swagger UI: `http://localhost:8080/swagger-ui.html`
 
 **Sarfaraz Essa**
 [GitHub](https://github.com/Sarfaraz-E)
-[LinkedIn](https://www.linkedin.com/in/sarfaraz-essa/) (optional)
+[LinkedIn](https://www.linkedin.com/in/sarfaraz-essa/)
 
 ```
 
