@@ -3,7 +3,6 @@
 [![Java](https://img.shields.io/badge/Java-17-blue)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2-green)](https://spring.io/projects/spring-boot)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue)](https://www.postgresql.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 A **RESTful Spring Boot application** implementing **3-layer architecture** (Controller → Service → Repository) with **DTO pattern**, designed to manage **student data** with full CRUD operations.
 
