@@ -206,11 +206,6 @@ Access Swagger UI: `http://localhost:8080/swagger-ui.html`
 * Add **Swagger documentation** for live API testing
 * Deploy on **Heroku / AWS** for live demonstration
 
----
-
-## 📝 License
-
-This project is licensed under **MIT License** – see the [LICENSE](LICENSE) file.
 
 ---
 
