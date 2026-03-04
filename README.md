@@ -214,21 +214,3 @@ Access Swagger UI: `http://localhost:8080/swagger-ui.html`
 [GitHub](https://github.com/Sarfaraz-E)
 [LinkedIn](https://www.linkedin.com/in/sarfaraz-essa/)
 
-```
-
----
-
-This README is **modern, professional, and visually structured** for portfolios. It includes:
-
-- Badges for Java, Spring Boot, PostgreSQL, and License
-- Clear architecture and project structure
-- API documentation with sample requests/responses
-- Placeholders for **screenshots**
-- Next steps for improvements & professional feel  
-
----
-
-If you want, I can **also generate a fully formatted Markdown with live Swagger links, interactive Postman collection, and ready-to-copy screenshots**, so it’s **portfolio-ready and impresses recruiters**.  
-
-Do you want me to do that?
-```
